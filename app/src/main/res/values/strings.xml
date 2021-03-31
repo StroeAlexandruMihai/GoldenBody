@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GOLDEN\nBODY</string>
+
+    <string name="spate">
+        \t\t <b>Spate :</b>\n\n
+
+\t\t \t\t 1. Ramat din sezand la helcometru\n
+\t\t \t\t 2. Tractiuni cu bratele intinse la helcometru\n
+\t\t \t\t 3. Tractiuni cu priza ingusta la helcometru\n
+\t\t \t\t 4. Tractiuni in fata la helcometru\n
+\t\t \t\t 5. Ramat cu haltera\n
+\t\t \t\t 6. Indreptari cu bara
+    </string>
+
+    <string name="brate">
+        \t\t <b>Brate :</b> \n\n
+
+\t\t \t\t 1. Flexii alternative cu ganterele\n
+\t\t \t\t 2. Flexii concentrate cu gantera\n
+\t\t \t\t 3. Flexia antebratului pe brat cu bara dreapta\n
+\t\t \t\t 4. Extensia antebratelor la helcometru cu priza pronatie\n
+\t\t \t\t 5. Extensii la helcometru cu priza supinatie\n
+\t\t \t\t 6. Extensia unui brat la helcometru cu priza supinatie\n
+    </string>
+
+    <string name="piept">
+        \t\t <b>Piept :</b> \n\n
+
+\t\t \t\t 1. Impins cu bara din inclinat\n
+\t\t \t\t 2. Impins cu gantere la plan inclinat\n
+\t\t \t\t 3. Fluturari la helcometru\n
+\t\t \t\t 4. Fluturari cu ganterele din inclinat\n
+\t\t \t\t 5. Flotari la paralele\n
+\t\t \t\t 6. Tragerea ganterei deasupra
+    </string>
+</resources>

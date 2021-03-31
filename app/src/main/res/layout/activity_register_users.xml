@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="@color/myColor">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        android:id="@+id/logo_img_register"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:hint="johndoe@gmail.com"
+            android:id="@+id/edit_text_email_register"
+            android:background="@android:color/holo_orange_dark"
+            android:padding="10dp"
+            android:textColor="@android:color/black"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:hint="Parola dvs."
+            android:id="@+id/edit_text_password_register"
+            android:inputType="textPassword"
+            android:background="@android:color/holo_orange_dark"
+            android:padding="10dp"
+            android:textColor="@android:color/black"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:hint="Numele intreg"
+            android:id="@+id/edit_text_fullname_register"
+            android:background="@android:color/holo_orange_dark"
+            android:padding="10dp"
+            android:textColor="@android:color/black"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:hint="Varsta"
+            android:id="@+id/edit_text_age_register"
+            android:background="@android:color/holo_orange_dark"
+            android:padding="10dp"
+            android:textColor="@android:color/black"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/buton_inregistrare"
+            android:text="Inregistrare"
+            android:textColor="@android:color/black"
+            android:background="@drawable/round_button"
+            android:padding="5dp"/>
+
+
+    </LinearLayout>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:visibility="gone"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043610354237",
+    "firebase_url": "https://goldenbody-40dcf-default-rtdb.firebaseio.com",
+    "project_id": "goldenbody-40dcf",
+    "storage_bucket": "goldenbody-40dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043610354237:android:ab4b24531e8fb3be6e2054",
+        "android_client_info": {
+          "package_name": "com.example.goldenbody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043610354237-79amgel6nji6bfnohrnk4mm5j1o6cba5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goldenbody",
+            "certificate_hash": "9f62df818c4ec4e4f92434d11f2792d9508f6fde"
+          }
+        },
+        {
+          "client_id": "1043610354237-p3rb4k8291mcgck2snd00cfct46plnff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdqUQPOL6JVDcE6z0C8HQXVCocQ_JVZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043610354237-p3rb4k8291mcgck2snd00cfct46plnff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
